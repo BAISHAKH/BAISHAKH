@@ -1,7 +1,7 @@
 <h1 align="center">Hello<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! It's Baishakh</h1>
 
 
-<img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/f6/a6/ee/f6a6ee3f5c366950db6012a0d44cc882.jpg" padding="5px" />
+<img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/56/fd/b0/56fdb085850af56d73a15d59a0ff4f7c.jpg" padding="5px" />
 
 - 🌱 I’m currently learning Machine Learning.
 - 💬 Ask me about CAT and Cricket stuffs.
