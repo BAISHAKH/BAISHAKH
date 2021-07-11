@@ -26,8 +26,9 @@ _Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to lear
 
 
 </br>
+<hr/>
 
-<h2 align='center'  style="padding:10px"><i>Languages and Tools</i></h2>
+<h2 align='center' ><i>Languages and Tools</i></h2>
 
 <table width="100">
 <tr>
