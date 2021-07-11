@@ -6,16 +6,16 @@ _Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to lear
 <h3 align='center'><i>Coonect with me</i></h3>
 <p align='center'>
  
-<table width="100" align='center'>
+<table width="100" align='left'>
 <tr>
     <td align='center'>
-       <a href="https://github.com/BAISHAKH"><img alt="github" width="100%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+       <a href="https://github.com/BAISHAKH"><img alt="github" width="80%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
     </td>
     <td align='center'>
- <a href="https://www.linkedin.com/in/baishakh-mishra-911b92155//"><img alt="linkedin" width="100%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>       
+ <a href="https://www.linkedin.com/in/baishakh-mishra-911b92155//"><img alt="linkedin" width="80%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>       
  </td>
     <td align='center'>
-       <a href="https://www.instagram.com/_b_a_i_s_h_a_k_h_/"><img alt="instagram" width="100%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+       <a href="https://www.instagram.com/_b_a_i_s_h_a_k_h_/"><img alt="instagram" width="80%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
     </td>
 </tr>
 </table>
