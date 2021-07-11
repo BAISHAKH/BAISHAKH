@@ -10,7 +10,7 @@ _Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to lear
 - 🧗 I try to: Go beyond and push the bounds
 
 </br>
-<h3 align='left'><i>Connect with me</i></h3>
+
 <p align='center'>
  
 <table width="100" align='center'>
