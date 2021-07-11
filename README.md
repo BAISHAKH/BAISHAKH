@@ -36,5 +36,5 @@ _Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to lear
 
 <p align='center'>
  <h2 align='center'>Github Stats</h2>
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=BAISHAKH&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" alt="baishakh" />&nbsp;
+ <img width="400px" align='center'src="https://github-readme-stats.vercel.app/api?username=BAISHAKH&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" alt="baishakh" />&nbsp;
 
