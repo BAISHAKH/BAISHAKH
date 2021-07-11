@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/BAISHAKH/BAISHAKH/blob/main/baish.png"  width="450">
 
-_Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to learn new stuffs and implement it in best posssible way.Curretnly I am learning Machine Learning._ 
+_Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to learn new stuffs and implement it in best posssible way._ 
 
 - 🌱 I’m currently learning Data Analysis.
 - 💬 Ask me about DSA and Tech stuffs.
@@ -33,12 +33,11 @@ _Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to lear
 
 
 </br>
-<hr/>
 
 
 
 
-<h2 align='center'><i>Github Stats & Languages Used</i></h2>
+<h2 align='center' style="padding-top:50px"><i>Github Stats & Languages Used</i></h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=BAISHAKH&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
 </a>
