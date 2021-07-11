@@ -31,7 +31,7 @@ _Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to lear
 
 </br>
 
-<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=BAISHAKH&theme=radical" alt="parwin akhtari" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=BAISHAKH&count_private=true&theme=radical"/></p>
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=BAISHAKH&theme=radical" alt="baishakh" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=BAISHAKH&count_private=true&theme=radical"/></p>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
