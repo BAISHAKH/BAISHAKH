@@ -13,7 +13,7 @@ _Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to lear
 <h3 align='left'><i>Connect with me</i></h3>
 <p align='center'>
  
-<table width="100" align='left'>
+<table width="100" align='center'>
 <tr>
     <td align='center'>
        <a href="https://github.com/BAISHAKH"><img alt="github" width="80%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
