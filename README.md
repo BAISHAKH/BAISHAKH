@@ -3,17 +3,14 @@
 <img align="right" src="https://github.com/BAISHAKH/BAISHAKH/blob/main/baish.png"  width="450">
 
 _Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to learn new stuffs and implement it in best posssible way.Curretnly I am learning Machine Learning._ 
- 
- - 🔭 I’m currently working on Web Development and Competitive Coding.
-- 🌱 I’m currently learning Cloud Pub/Sub Architecture.
-- 👯 I’m looking to collaborate on Github
+
+- 🌱 I’m currently learning Data Analysis.
 - 💬 Ask me about DSA and Tech stuffs.
-- 📫 How to reach me: parwinakhtari7@gmail.com
+- 📫 How to reach me: mishrabaishakh4@gmail.com
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love learning new stuff so it is getting difficult for me to master anything 
 
 </br>
-<h3 align='center'><i>Coonect with me</i></h3>
+<h3 align='left'><i>Connect with me</i></h3>
 <p align='center'>
  
 <table width="100" align='left'>
