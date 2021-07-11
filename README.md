@@ -31,9 +31,25 @@ _Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to lear
 
 </br>
 
-&nbsp;
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=parwinakhtari&theme=radical" alt="parwin akhtari" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=parwinakhtari&count_private=true&theme=radical"/></p>
 
+<!--START_SECTION_PROFILE_VIEWS:readme-info-->
+<!--END_SECTION_PROFILE_VIEWS:readme-info-->
 
-<p align='center'>
- <img width="400px" src="https://github-readme-stats.vercel.app/api?username=BAISHAKH&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" alt="baishakh" />&nbsp;
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+<!--START_SECTION_LANGUAGE:readme-info-->
+<!--END_SECTION_LANGUAGE:readme-info-->
+
+<h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
 
