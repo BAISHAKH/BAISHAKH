@@ -1,6 +1,5 @@
 <h1 align="center">Hello<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">! It's Baishakh</h1>
 
-![](https://activity-graph.herokuapp.com/graph?username=parwinakhtari&theme=react-dark&hide_border=true&area=true)
 
 <img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/736x/ea/69/dc/ea69dc6226e72a33f82d3add20b470df.jpg" padding="5px" />
 
@@ -24,7 +23,7 @@
 
 
 
-<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=parwinakhtari&theme=radical" alt="parwin akhtari" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=parwinakhtari&count_private=true&theme=radical"/></p>
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=BAISHAKH&theme=radical" alt="BAISHAKH" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=BAISHAKH&count_private=true&theme=radical"/></p>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
