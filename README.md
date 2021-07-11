@@ -19,7 +19,7 @@
 
 
 
-<p align='center'><img width="330px" src="https://github-readme-streak-stats.herokuapp.com/?user=BAISHAKH&theme=radical" alt="BAISHAKH" />&nbsp; &nbsp;<img width="330px" src="https://github-readme-stats.vercel.app/api?username=BAISHAKH&count_private=true&theme=radical"/></p>
+<p align='center'><img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=BAISHAKH&theme=radical" alt="BAISHAKH" />&nbsp; &nbsp;<img width="400" src="https://github-readme-stats.vercel.app/api?username=BAISHAKH&count_private=true&theme=radical"/></p>
 
 <!--START_SECTION_PROFILE_VIEWS:readme-info-->
 <!--END_SECTION_PROFILE_VIEWS:readme-info-->
