@@ -32,13 +32,7 @@ _Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to lear
 </br>
 
 
-</br>
 
 
+<p align='center'><img width="400px" src="https://github-readme-stats.vercel.app/api?username=BAISHAKH&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" alt="baishakh" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=BAISHAKH&count_private=true&theme=radical"/></p>
 
-
-<h2 align='center' style="padding-top:50px"><i>Github Stats & Languages Used</i></h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BAISHAKH&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
-</a>
-</p>
