@@ -1,6 +1,6 @@
 <h1 align='center'> <i>Hello, Folks <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">!</h1>  
 
-<img align="right" src="https://github.com/BAISHAKH/BAISHAKH/blob/main/baish.png"  width="500">
+<img align="right" src="https://github.com/BAISHAKH/BAISHAKH/blob/main/baish.png"  width="450">
 
 _Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to learn new stuffs and implement it in best posssible way.Curretnly I am learning Machine Learning._  
 <h3 align='center'><i>Coonect with me</i></h3>
@@ -24,12 +24,6 @@ _Hello there this is **Baishakh Mishra**. A **Fulltime Learner**. I love to lear
 
 </br>
 
-<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=BAISHAKH&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
 
 </br>
 
